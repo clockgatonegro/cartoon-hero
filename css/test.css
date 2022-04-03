@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+}
+h1{
+    font-size: 30px;
+    color: darkviolet;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+h2{
+    font-size: 25px;
+    color: hotpink;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.big{
+    font-size: 50px;
+    color: darkturquoise;
+    font-family: cursive;
+}
+.uppercase {
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    }
+.big.uppercase{
+    color: darksalmon;
+    }
+h1 span{
+    color: chocolate;
+    }
